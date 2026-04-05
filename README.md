@@ -2,6 +2,9 @@
 
 A modern, professional portfolio website featuring responsive, real-time 3D elements, cutting-edge design aesthetics, and interactive features.
 
+**🚀 [Live Demo](https://Shashikant-codes.github.io/3d_portfolio/)**
+
+
 ## 🌟 Features
 
 - **Interactive 3D Geometry**: Dynamic Three.js geometric shapes that respond intelligently to mouse and cursor movements.
